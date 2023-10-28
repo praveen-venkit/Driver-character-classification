@@ -1,0 +1,1462 @@
+time_seconds,speed_meters_per_second,acceleration_meters_per_second_squared,Acceleration_Type,Deceleration_Type
+1.006999808,0.3338075,-0.553438497,,Smooth Deceleration
+2.006999808,0,-0.3338075,,Smooth Deceleration
+3.006999808,0,0,Stationary,Stationary
+4.032,0,0,Stationary,Stationary
+5.032,0,0,Stationary,Stationary
+6.032,0,0,Stationary,Stationary
+7.032,0,0,Stationary,Stationary
+10.032,0,0,Stationary,Stationary
+11.032,0,0,Stationary,Stationary
+12.032,0,0,Stationary,Stationary
+13.032,0,0,Stationary,Stationary
+14.032,0,0,Stationary,Stationary
+15.032,0,0,Stationary,Stationary
+16.032,0,0,Stationary,Stationary
+17.032,0,0,Stationary,Stationary
+18.032,0,0,Stationary,Stationary
+19.032,0,0,Stationary,Stationary
+20.032,0,0,Stationary,Stationary
+21.032,0,0,Stationary,Stationary
+22.032,0,0,Stationary,Stationary
+23.032,0,0,Stationary,Stationary
+24.032,0,0,Stationary,Stationary
+25.032,0,0,Stationary,Stationary
+26.032,0,0,Stationary,Stationary
+27.032,0,0,Stationary,Stationary
+28.032,0,0,Stationary,Stationary
+29.032,0,0,Stationary,Stationary
+30.032,0,0,Stationary,Stationary
+32.032,0,0,Stationary,Stationary
+33.032,0,0,Stationary,Stationary
+35.032,0,0,Stationary,Stationary
+37.032,0,0,Stationary,Stationary
+38.032,0,0,Stationary,Stationary
+39.032,0,0,Stationary,Stationary
+41.032,0,0,Stationary,Stationary
+42.032,0,0,Stationary,Stationary
+44.032,0,0,Stationary,Stationary
+45.032,0,0,Stationary,Stationary
+47.032,0,0,Stationary,Stationary
+48.032,0,0,Stationary,Stationary
+50.032,0,0,Stationary,Stationary
+51.032,0,0,Stationary,Stationary
+56.032,0,0,Stationary,Stationary
+57.032,0,0,Stationary,Stationary
+58.032,0,0,Stationary,Stationary
+59.032,0,0,Stationary,Stationary
+60.032,0,0,Stationary,Stationary
+61.032,0,0,Stationary,Stationary
+62.032,0,0,Stationary,Stationary
+63.032,0,0,Stationary,Stationary
+64.032,0,0,Stationary,Stationary
+65.032,0,0,Stationary,Stationary
+66.032,0,0,Stationary,Stationary
+67.032,0,0,Stationary,Stationary
+69.032,0,0,Stationary,Stationary
+70.032,0,0,Stationary,Stationary
+72.032,0,0,Stationary,Stationary
+73.032,0,0,Stationary,Stationary
+75.032,0,0,Stationary,Stationary
+76.032,0,0,Stationary,Stationary
+78.032,0,0,Stationary,Stationary
+79.032,0,0,Stationary,Stationary
+81.032,0,0,Stationary,Stationary
+82.032,0,0,Stationary,Stationary
+84.032,0,0,Stationary,Stationary
+85.032,0,0,Stationary,Stationary
+86.032,0,0,Stationary,Stationary
+88.032,0,0,Stationary,Stationary
+89.032,0,0,Stationary,Stationary
+91.032,0,0,Stationary,Stationary
+92.032,0,0,Stationary,Stationary
+94.032,0,0,Stationary,Stationary
+95.032,0,0,Stationary,Stationary
+97.032,0,0,Stationary,Stationary
+98.032,0,0,Stationary,Stationary
+100.032,0,0,Stationary,Stationary
+101.032,0,0,Stationary,Stationary
+103.032,0,0,Stationary,Stationary
+104.032,0,0,Stationary,Stationary
+106.032,0,0,Stationary,Stationary
+107.032,0,0,Stationary,Stationary
+109.032,0,0,Stationary,Stationary
+110.032,0,0,Stationary,Stationary
+111.032,0,0,Stationary,Stationary
+112.032,0,0,Stationary,Stationary
+113.032,0,0,Stationary,Stationary
+114.032,0,0,Stationary,Stationary
+115.032,0,0,Stationary,Stationary
+116.032,0,0,Stationary,Stationary
+117.032,0,0,Stationary,Stationary
+118.032,0,0,Stationary,Stationary
+119.032,0,0,Stationary,Stationary
+121.032,0,0,Stationary,Stationary
+122.032,0,0,Stationary,Stationary
+124.032,0,0,Stationary,Stationary
+125.032,0,0,Stationary,Stationary
+127.032,0,0,Stationary,Stationary
+128.032,0,0,Stationary,Stationary
+130.032,0,0,Stationary,Stationary
+131.032,0,0,Stationary,Stationary
+132.032,0,0,Stationary,Stationary
+133.032,0,0,Stationary,Stationary
+134.032,0,0,Stationary,Stationary
+135.032,0,0,Stationary,Stationary
+136.032,0,0,Stationary,Stationary
+137.032,0,0,Stationary,Stationary
+138.032,0,0,Stationary,Stationary
+139.032,0,0,Stationary,Stationary
+140.032,0,0,Stationary,Stationary
+141.032,0,0,Stationary,Stationary
+142.032,0,0,Stationary,Stationary
+144.032,0,0,Stationary,Stationary
+145.032,0,0,Stationary,Stationary
+147.032,0,0,Stationary,Stationary
+148.032,0,0,Stationary,Stationary
+150.032,0,0,Stationary,Stationary
+152.032,0,0,Stationary,Stationary
+153.032,0,0,Stationary,Stationary
+154.032,0,0,Stationary,Stationary
+156.032,0,0,Stationary,Stationary
+157.032,0,0,Stationary,Stationary
+159.032,0,0,Stationary,Stationary
+160.032,0,0,Stationary,Stationary
+162.032,0,0,Stationary,Stationary
+163.032,0,0,Stationary,Stationary
+164.032,0,0,Stationary,Stationary
+166.032,0,0,Stationary,Stationary
+167.032,0,0,Stationary,Stationary
+169.032,0,0,Stationary,Stationary
+170.032,0,0,Stationary,Stationary
+172.032,0,0,Stationary,Stationary
+173.032,0,0,Stationary,Stationary
+174.032,0,0,Stationary,Stationary
+176.032,0,0,Stationary,Stationary
+177.032,0,0,Stationary,Stationary
+179.032,0,0,Stationary,Stationary
+180.032,0,0,Stationary,Stationary
+182.032,0,0,Stationary,Stationary
+183.032,0,0,Stationary,Stationary
+185.032,0,0,Stationary,Stationary
+186.032,0,0,Stationary,Stationary
+188.032,0,0,Stationary,Stationary
+189.032,0,0,Stationary,Stationary
+191.032,0,0,Stationary,Stationary
+192.032,0,0,Stationary,Stationary
+194.032,0,0,Stationary,Stationary
+195.032,0,0,Stationary,Stationary
+197.032,0,0,Stationary,Stationary
+198.032,0,0,Stationary,Stationary
+199.032,0,0,Stationary,Stationary
+201.032,0,0,Stationary,Stationary
+202.032,0,0,Stationary,Stationary
+204.032,0,0,Stationary,Stationary
+205.032,0,0,Stationary,Stationary
+207.032,0,0,Stationary,Stationary
+208.032,0,0,Stationary,Stationary
+210.032,0,0,Stationary,Stationary
+211.032,0,0,Stationary,Stationary
+213.032,0,0,Stationary,Stationary
+214.032,0,0,Stationary,Stationary
+215.032,0,0,Stationary,Stationary
+217.032,0,0,Stationary,Stationary
+218.032,0,0,Stationary,Stationary
+220.032,0,0,Stationary,Stationary
+221.032,0,0,Stationary,Stationary
+223.032,0,0,Stationary,Stationary
+224.032,0,0,Stationary,Stationary
+226.032,0,0,Stationary,Stationary
+227.032,0,0,Stationary,Stationary
+228.032,0,0,Stationary,Stationary
+230.032,0,0,Stationary,Stationary
+231.032,0,0,Stationary,Stationary
+233.032,0,0,Stationary,Stationary
+234.032,0,0,Stationary,Stationary
+236.032,0,0,Stationary,Stationary
+237.032,0,0,Stationary,Stationary
+239.032,0,0,Stationary,Stationary
+240.032,0,0,Stationary,Stationary
+242.032,0,0,Stationary,Stationary
+243.032,0,0,Stationary,Stationary
+244.032,0,0,Stationary,Stationary
+246.032,0,0,Stationary,Stationary
+247.032,0,0,Stationary,Stationary
+249.032,0,0,Stationary,Stationary
+250.032,0,0,Stationary,Stationary
+251.032,0,0,Stationary,Stationary
+253.032,0,0,Stationary,Stationary
+255.032,0,0,Stationary,Stationary
+256.032,0,0,Stationary,Stationary
+258.032,0,0,Stationary,Stationary
+259.032,0,0,Stationary,Stationary
+260.032,0,0,Stationary,Stationary
+262.032,0,0,Stationary,Stationary
+263.032,0,0,Stationary,Stationary
+265.032,0,0,Stationary,Stationary
+266.032,0,0,Stationary,Stationary
+268.032,0,0,Stationary,Stationary
+269.032,0,0,Stationary,Stationary
+271.032,0,0,Stationary,Stationary
+272.032,0,0,Stationary,Stationary
+274.032,3.2481685,1.62408425,Rapid Acceleration,
+275.032,4.6065183,1.3583498,Rapid Acceleration,
+277.032,4.7195473,0.0565145,Rapid Acceleration,
+278.032,4.8109026,0.0913553,Rapid Acceleration,
+281.032,8.740122,1.3097398,Rapid Acceleration,
+284.032,13.016212,1.425363333,Rapid Acceleration,
+285.032,14.281607,1.265395,Rapid Acceleration,
+286.032,14.184688,-0.096919,,Smooth Deceleration
+287.032,14.701608,0.51692,Rapid Acceleration,
+288.032,15.69968,0.998072,Rapid Acceleration,
+289.032,16.658405,0.958725,Rapid Acceleration,
+290.032,17.498314,0.839909,Rapid Acceleration,
+291.032,17.415712,-0.082602,,Smooth Deceleration
+292.032,17.628784,0.213072,Rapid Acceleration,
+293.032,18.250214,0.62143,Rapid Acceleration,
+294.032,18.948212,0.697998,Rapid Acceleration,
+295.032,19.597544,0.649332,Rapid Acceleration,
+296.032,20.101685,0.504141,Rapid Acceleration,
+297.032,19.784367,-0.317318,,Smooth Deceleration
+298.032,18.874311,-0.910056,,Smooth Deceleration
+299.032,17.293308,-1.581003,,Smooth Deceleration
+300.032,15.144621,-2.148687,,Rapid Deceleration
+301.032,12.966357,-2.178264,,Rapid Deceleration
+302.032,11.014203,-1.952154,,Smooth Deceleration
+303.032,8.296084,-2.718119,,Rapid Deceleration
+304.032,5.1434093,-3.1526747,,Rapid Deceleration
+305.032,4.326673,-0.8167363,,Smooth Deceleration
+307.032,2.6866198,-0.8200266,,Smooth Deceleration
+308.032,2.3327963,-0.3538235,,Smooth Deceleration
+309.032,2.0095646,-0.3232317,,Smooth Deceleration
+310.032,1.9225345,-0.0870301,,Smooth Deceleration
+311.032,1.8960536,-0.0264809,,Smooth Deceleration
+312.032,2.218645,0.3225914,Rapid Acceleration,
+313.032,2.5186656,0.3000206,Rapid Acceleration,
+314.032,2.9636211,0.4449555,Rapid Acceleration,
+315.032,3.0982106,0.1345895,Rapid Acceleration,
+316.032,3.4188905,0.3206799,Rapid Acceleration,
+317.032,4.0973783,0.6784878,Rapid Acceleration,
+318.032,4.3062644,0.2088861,Rapid Acceleration,
+319.032,4.162685,-0.1435794,,Smooth Deceleration
+320.032,4.031071,-0.131614,,Smooth Deceleration
+321.032,4.223633,0.192562,Rapid Acceleration,
+322.032,4.8463354,0.6227024,Rapid Acceleration,
+323.032,5.074961,0.2286256,Rapid Acceleration,
+324.032,5.2196975,0.1447365,Rapid Acceleration,
+325.032,5.1198406,-0.0998569,,Smooth Deceleration
+326.032,5.1570325,0.0371919,Rapid Acceleration,
+327.032,4.09958,-1.0574525,,Smooth Deceleration
+328.032,4.183586,0.084006,Rapid Acceleration,
+329.032,4.361383,0.177797,Rapid Acceleration,
+330.032,3.9661005,-0.3952825,,Smooth Deceleration
+331.032,3.573395,-0.3927055,,Smooth Deceleration
+332.032,3.8938282,0.3204332,Rapid Acceleration,
+333.032,4.4673424,0.5735142,Rapid Acceleration,
+334.032,4.4904857,0.0231433,Rapid Acceleration,
+335.032,4.728105,0.2376193,Rapid Acceleration,
+336.032,4.6884065,-0.0396985,,Smooth Deceleration
+337.032,4.7068815,0.018475,Rapid Acceleration,
+338.032,4.6357155,-0.071166,,Smooth Deceleration
+339.032,3.8576274,-0.7780881,,Smooth Deceleration
+340.032,4.8546033,0.9969759,Rapid Acceleration,
+341.032,5.3523803,0.497777,Rapid Acceleration,
+342.032,5.8604217,0.5080414,Rapid Acceleration,
+343.032,6.171407,0.3109853,Rapid Acceleration,
+344.032,6.227848,0.056441,Rapid Acceleration,
+345.032,6.1058064,-0.1220416,,Smooth Deceleration
+346.032,5.803458,-0.3023484,,Smooth Deceleration
+347.032,5.2878747,-0.5155833,,Smooth Deceleration
+348.032,4.3498926,-0.9379821,,Smooth Deceleration
+349.032,4.100888,-0.2490046,,Smooth Deceleration
+350.032,3.705021,-0.395867,,Smooth Deceleration
+351.032,3.2884135,-0.4166075,,Smooth Deceleration
+352.032,3.198605,-0.0898085,,Smooth Deceleration
+353.032,3.3705742,0.1719692,Rapid Acceleration,
+354.032,3.378771,0.0081968,Rapid Acceleration,
+355.032,3.5178277,0.1390567,Rapid Acceleration,
+356.032,3.7499914,0.2321637,Rapid Acceleration,
+357.032,3.9116805,0.1616891,Rapid Acceleration,
+358.032,4.0680385,0.156358,Rapid Acceleration,
+359.032,3.9256995,-0.142339,,Smooth Deceleration
+360.032,3.7705586,-0.1551409,,Smooth Deceleration
+361.032,3.8109558,0.0403972,Rapid Acceleration,
+362.032,3.8719056,0.0609498,Rapid Acceleration,
+363.032,3.9426746,0.070769,Rapid Acceleration,
+364.032,4.036497,0.0938224,Rapid Acceleration,
+365.032,4.322799,0.286302,Rapid Acceleration,
+366.032,4.5538936,0.2310946,Rapid Acceleration,
+367.032,4.587913,0.0340194,Rapid Acceleration,
+368.032,4.50989,-0.078023,,Smooth Deceleration
+369.032,4.468567,-0.041323,,Smooth Deceleration
+370.032,4.435789,-0.032778,,Smooth Deceleration
+371.032,4.383599,-0.05219,,Smooth Deceleration
+372.032,4.730706,0.347107,Rapid Acceleration,
+373.032,4.631798,-0.098908,,Smooth Deceleration
+374.032,4.9957356,0.3639376,Rapid Acceleration,
+375.032,5.1131516,0.117416,Rapid Acceleration,
+376.032,5.2646403,0.1514887,Rapid Acceleration,
+377.032,5.298564,0.0339237,Rapid Acceleration,
+378.032,5.0498095,-0.2487545,,Smooth Deceleration
+379.032,5.2893686,0.2395591,Rapid Acceleration,
+380.032,5.514984,0.2256154,Rapid Acceleration,
+381.032,5.394723,-0.120261,,Smooth Deceleration
+382.032,5.4182544,0.0235314,Rapid Acceleration,
+383.032,4.9046807,-0.5135737,,Smooth Deceleration
+384.032,4.808861,-0.0958197,,Smooth Deceleration
+385.032,4.40262,-0.406241,,Smooth Deceleration
+386.032,3.9842904,-0.4183296,,Smooth Deceleration
+387.032,4.015529,0.0312386,Rapid Acceleration,
+388.032,3.142508,-0.873021,,Smooth Deceleration
+389.032,2.6360726,-0.5064354,,Smooth Deceleration
+390.032,2.1758583,-0.4602143,,Smooth Deceleration
+391.032,2.4347475,0.2588892,Rapid Acceleration,
+392.032,2.6964123,0.2616648,Rapid Acceleration,
+393.032,2.819096,0.1226837,Rapid Acceleration,
+394.032,2.747111,-0.071985,,Smooth Deceleration
+395.032,2.8231714,0.0760604,Rapid Acceleration,
+396.032,3.0234048,0.2002334,Rapid Acceleration,
+397.032,2.297043,-0.7263618,,Smooth Deceleration
+398.032,2.8872895,0.5902465,Rapid Acceleration,
+399.032,2.9652014,0.0779119,Rapid Acceleration,
+400.032,3.337117,0.3719156,Rapid Acceleration,
+401.032,3.5870647,0.2499477,Rapid Acceleration,
+402.032,3.676948,0.0898833,Rapid Acceleration,
+403.032,3.7222266,0.0452786,Rapid Acceleration,
+404.032,4.0094194,0.2871928,Rapid Acceleration,
+405.032,4.6465874,0.637168,Rapid Acceleration,
+406.032,5.2266755,0.5800881,Rapid Acceleration,
+407.032,5.239105,0.0124295,Rapid Acceleration,
+408.032,4.836896,-0.402209,,Smooth Deceleration
+409.032,5.0085793,0.1716833,Rapid Acceleration,
+410.032,5.429766,0.4211867,Rapid Acceleration,
+411.032,5.4589334,0.0291674,Rapid Acceleration,
+412.032,6.04173,0.5827966,Rapid Acceleration,
+413.032,5.712683,-0.329047,,Smooth Deceleration
+414.032,5.8479643,0.1352813,Rapid Acceleration,
+415.032,5.675523,-0.1724413,,Smooth Deceleration
+416.032,6.0496755,0.3741525,Rapid Acceleration,
+417.032,6.0254335,-0.024242,,Smooth Deceleration
+418.032,6.0740185,0.048585,Rapid Acceleration,
+419.032,5.4850817,-0.5889368,,Smooth Deceleration
+420.032,5.9931045,0.5080228,Rapid Acceleration,
+421.032,5.8042254,-0.1888791,,Smooth Deceleration
+422.032,5.687575,-0.1166504,,Smooth Deceleration
+423.032,5.6125116,-0.0750634,,Smooth Deceleration
+424.032,5.5577555,-0.0547561,,Smooth Deceleration
+425.032,5.459016,-0.0987395,,Smooth Deceleration
+426.032,5.5900307,0.1310147,Rapid Acceleration,
+427.032,5.744921,0.1548903,Rapid Acceleration,
+428.032,5.6174564,-0.1274646,,Smooth Deceleration
+429.032,6.0298786,0.4124222,Rapid Acceleration,
+430.032,6.2992845,0.2694059,Rapid Acceleration,
+431.032,6.4337106,0.1344261,Rapid Acceleration,
+432.032,6.4639044,0.0301938,Rapid Acceleration,
+433.032,6.2174735,-0.2464309,,Smooth Deceleration
+434.032,5.9867473,-0.2307262,,Smooth Deceleration
+435.032,5.7791905,-0.2075568,,Smooth Deceleration
+436.032,5.498188,-0.2810025,,Smooth Deceleration
+437.032,4.8832407,-0.6149473,,Smooth Deceleration
+438.032,3.947445,-0.9357957,,Smooth Deceleration
+439.032,2.7516787,-1.1957663,,Smooth Deceleration
+440.032,1.5990885,-1.1525902,,Smooth Deceleration
+441.032,1.1919966,-0.4070919,,Smooth Deceleration
+442.032,0.8766269,-0.3153697,,Smooth Deceleration
+443.032,0.9697458,0.0931189,Rapid Acceleration,
+444.032,1.1235802,0.1538344,Rapid Acceleration,
+445.032,0.9895654,-0.1340148,,Smooth Deceleration
+446.032,1.1966385,0.2070731,Rapid Acceleration,
+447.032,1.3693967,0.1727582,Rapid Acceleration,
+448.032,1.5446352,0.1752385,Rapid Acceleration,
+449.032,1.7703054,0.2256702,Rapid Acceleration,
+450.032,1.9407107,0.1704053,Rapid Acceleration,
+451.032,2.3156643,0.3749536,Rapid Acceleration,
+452.032,2.3834538,0.0677895,Rapid Acceleration,
+453.032,2.662924,0.2794702,Rapid Acceleration,
+454.032,3.3765876,0.7136636,Rapid Acceleration,
+455.032,4.142729,0.7661414,Rapid Acceleration,
+456.032,4.693152,0.550423,Rapid Acceleration,
+457.032,4.984425,0.291273,Rapid Acceleration,
+458.032,5.1269426,0.1425176,Rapid Acceleration,
+459.032,5.2718143,0.1448717,Rapid Acceleration,
+460.032,5.4801297,0.2083154,Rapid Acceleration,
+461.032,5.8009715,0.3208418,Rapid Acceleration,
+462.032,5.9851584,0.1841869,Rapid Acceleration,
+463.032,5.9662147,-0.0189437,,Smooth Deceleration
+464.032,5.8892865,-0.0769282,,Smooth Deceleration
+465.032,5.6810603,-0.2082262,,Smooth Deceleration
+466.032,5.2012253,-0.479835,,Smooth Deceleration
+467.032,5.0247474,-0.1764779,,Smooth Deceleration
+468.032,4.722791,-0.3019564,,Smooth Deceleration
+469.032,4.7937207,0.0709297,Rapid Acceleration,
+470.032,4.5667696,-0.2269511,,Smooth Deceleration
+471.032,4.434159,-0.1326106,,Smooth Deceleration
+472.032,4.456378,0.022219,Rapid Acceleration,
+473.032,4.391788,-0.06459,,Smooth Deceleration
+474.032,4.290457,-0.101331,,Smooth Deceleration
+475.032,3.8261406,-0.4643164,,Smooth Deceleration
+476.032,4.3959446,0.569804,Rapid Acceleration,
+477.032,4.1927943,-0.2031503,,Smooth Deceleration
+478.032,3.980448,-0.2123463,,Smooth Deceleration
+479.032,3.7738283,-0.2066197,,Smooth Deceleration
+480.032,3.7988017,0.0249734,Rapid Acceleration,
+481.032,4.482209,0.6834073,Rapid Acceleration,
+482.032,4.838568,0.356359,Rapid Acceleration,
+483.032,5.03618,0.197612,Rapid Acceleration,
+484.032,5.1851835,0.1490035,Rapid Acceleration,
+485.032,4.2877994,-0.8973841,,Smooth Deceleration
+486.032,3.4635081,-0.8242913,,Smooth Deceleration
+487.032,2.469314,-0.9941941,,Smooth Deceleration
+488.032,1.6503787,-0.8189353,,Smooth Deceleration
+489.032,1.8596566,0.2092779,Rapid Acceleration,
+490.032,1.8918843,0.0322277,Rapid Acceleration,
+491.032,2.1051161,0.2132318,Rapid Acceleration,
+492.032,2.089639,-0.0154771,,Smooth Deceleration
+493.032,1.8854318,-0.2042072,,Smooth Deceleration
+494.032,1.9818444,0.0964126,Rapid Acceleration,
+495.032,2.0817258,0.0998814,Rapid Acceleration,
+496.032,2.2039812,0.1222554,Rapid Acceleration,
+497.032,2.0455334,-0.1584478,,Smooth Deceleration
+498.032,1.9074155,-0.1381179,,Smooth Deceleration
+500.032,1.8022612,-0.05257715,,Smooth Deceleration
+501.032,1.9694686,0.1672074,Rapid Acceleration,
+502.032,2.3517191,0.3822505,Rapid Acceleration,
+503.032,1.9501767,-0.4015424,,Smooth Deceleration
+504.032,1.8539122,-0.0962645,,Smooth Deceleration
+505.032,1.5511396,-0.3027726,,Smooth Deceleration
+506.032,2.1026719,0.5515323,Rapid Acceleration,
+507.032,1.228646,-0.8740259,,Smooth Deceleration
+508.032,1.5969652,0.3683192,Rapid Acceleration,
+509.032,1.5408028,-0.0561624,,Smooth Deceleration
+510.032,1.7796494,0.2388466,Rapid Acceleration,
+511.032,1.8895048,0.1098554,Rapid Acceleration,
+512.032,2.3588457,0.4693409,Rapid Acceleration,
+513.032,2.517891,0.1590453,Rapid Acceleration,
+514.032,2.7246952,0.2068042,Rapid Acceleration,
+515.032,3.057584,0.3328888,Rapid Acceleration,
+516.032,3.2301917,0.1726077,Rapid Acceleration,
+517.032,3.0300074,-0.2001843,,Smooth Deceleration
+518.032,2.7887282,-0.2412792,,Smooth Deceleration
+519.032,2.7823305,-0.0063977,,Smooth Deceleration
+520.032,2.9191937,0.1368632,Rapid Acceleration,
+521.032,2.533585,-0.3856087,,Smooth Deceleration
+522.032,2.2994442,-0.2341408,,Smooth Deceleration
+524.032,2.6079795,0.15426765,Rapid Acceleration,
+525.032,2.2239552,-0.3840243,,Smooth Deceleration
+526.032,2.2150648,-0.0088904,,Smooth Deceleration
+527.032,1.9895366,-0.2255282,,Smooth Deceleration
+528.032,1.9485841,-0.0409525,,Smooth Deceleration
+529.032,2.1317515,0.1831674,Rapid Acceleration,
+530.032,1.8616954,-0.2700561,,Smooth Deceleration
+531.032,1.6069165,-0.2547789,,Smooth Deceleration
+532.032,1.528846,-0.0780705,,Smooth Deceleration
+533.032,1.538033,0.009187,Rapid Acceleration,
+534.032,1.8785498,0.3405168,Rapid Acceleration,
+535.032,1.7884225,-0.0901273,,Smooth Deceleration
+536.032,2.3079278,0.5195053,Rapid Acceleration,
+537.032,2.2159064,-0.0920214,,Smooth Deceleration
+538.032,2.109921,-0.1059854,,Smooth Deceleration
+539.032,2.6674426,0.5575216,Rapid Acceleration,
+540.032,2.4590578,-0.2083848,,Smooth Deceleration
+541.032,2.3665478,-0.09251,,Smooth Deceleration
+542.032,2.237226,-0.1293218,,Smooth Deceleration
+544.032,1.8701073,-0.18355935,,Smooth Deceleration
+545.032,1.4533519,-0.4167554,,Smooth Deceleration
+546.032,1.2765045,-0.1768474,,Smooth Deceleration
+547.032,1.2099998,-0.0665047,,Smooth Deceleration
+548.032,1.4054531,0.1954533,Rapid Acceleration,
+549.032,1.6248208,0.2193677,Rapid Acceleration,
+550.032,0.99816203,-0.62665877,,Smooth Deceleration
+551.032,1.1163555,0.11819347,Rapid Acceleration,
+552.032,1.0704093,-0.0459462,,Smooth Deceleration
+553.032,1.108287,0.0378777,Rapid Acceleration,
+554.032,1.2709029,0.1626159,Rapid Acceleration,
+555.032,1.0315346,-0.2393683,,Smooth Deceleration
+556.032,1.3496042,0.3180696,Rapid Acceleration,
+557.032,1.7186847,0.3690805,Rapid Acceleration,
+558.032,1.3956823,-0.3230024,,Smooth Deceleration
+559.032,1.713686,0.3180037,Rapid Acceleration,
+560.032,1.5377539,-0.1759321,,Smooth Deceleration
+561.032,1.8837911,0.3460372,Rapid Acceleration,
+562.032,2.353855,0.4700639,Rapid Acceleration,
+563.032,2.8390608,0.4852058,Rapid Acceleration,
+564.032,2.7454648,-0.093596,,Smooth Deceleration
+565.032,2.699987,-0.0454778,,Smooth Deceleration
+566.032,2.4569516,-0.2430354,,Smooth Deceleration
+567.032,2.1879356,-0.269016,,Smooth Deceleration
+568.032,2.4087043,0.2207687,Rapid Acceleration,
+569.032,2.2465909,-0.1621134,,Smooth Deceleration
+570.032,2.4116838,0.1650929,Rapid Acceleration,
+571.032,2.4043584,-0.0073254,,Smooth Deceleration
+572.032,2.3876157,-0.0167427,,Smooth Deceleration
+573.032,2.188464,-0.1991517,,Smooth Deceleration
+574.032,2.0013897,-0.1870743,,Smooth Deceleration
+575.032,1.9506698,-0.0507199,,Smooth Deceleration
+576.032,2.1747866,0.2241168,Rapid Acceleration,
+577.032,2.018539,-0.1562476,,Smooth Deceleration
+578.032,2.1530104,0.1344714,Rapid Acceleration,
+579.032,2.2385874,0.085577,Rapid Acceleration,
+580.032,2.221558,-0.0170294,,Smooth Deceleration
+581.032,2.2230654,0.0015074,Rapid Acceleration,
+582.032,1.7893448,-0.4337206,,Smooth Deceleration
+583.032,2.1365006,0.3471558,Rapid Acceleration,
+585.032,1.878609,-0.1289458,,Smooth Deceleration
+586.032,1.7866513,-0.0919577,,Smooth Deceleration
+587.032,1.6999232,-0.0867281,,Smooth Deceleration
+588.032,1.6877285,-0.0121947,,Smooth Deceleration
+589.032,1.6474377,-0.0402908,,Smooth Deceleration
+590.032,1.6462631,-0.0011746,,Smooth Deceleration
+591.032,1.6077126,-0.0385505,,Smooth Deceleration
+592.032,1.6782284,0.0705158,Rapid Acceleration,
+593.032,1.4403969,-0.2378315,,Smooth Deceleration
+594.032,1.2707782,-0.1696187,,Smooth Deceleration
+595.032,1.50445,0.2336718,Rapid Acceleration,
+596.032,1.8621256,0.3576756,Rapid Acceleration,
+597.032,1.8629161,0.0007905,Rapid Acceleration,
+598.032,1.4026015,-0.4603146,,Smooth Deceleration
+599.032,1.4523774,0.0497759,Rapid Acceleration,
+600.032,1.5815012,0.1291238,Rapid Acceleration,
+601.032,1.3861825,-0.1953187,,Smooth Deceleration
+602.032,2.244243,0.8580605,Rapid Acceleration,
+603.032,2.837776,0.593533,Rapid Acceleration,
+604.032,2.4243195,-0.4134565,,Smooth Deceleration
+605.032,2.326319,-0.0980005,,Smooth Deceleration
+606.032,3.0960197,0.7697007,Rapid Acceleration,
+607.032,3.4281733,0.3321536,Rapid Acceleration,
+608.032,3.6919734,0.2638001,Rapid Acceleration,
+609.032,3.8877463,0.1957729,Rapid Acceleration,
+610.032,4.0998225,0.2120762,Rapid Acceleration,
+611.032,3.6416862,-0.4581363,,Smooth Deceleration
+612.032,3.051115,-0.5905712,,Smooth Deceleration
+613.032,2.691707,-0.359408,,Smooth Deceleration
+614.032,3.1755621,0.4838551,Rapid Acceleration,
+615.032,3.4106233,0.2350612,Rapid Acceleration,
+616.032,3.558336,0.1477127,Rapid Acceleration,
+617.032,3.7677057,0.2093697,Rapid Acceleration,
+618.032,3.2742035,-0.4935022,,Smooth Deceleration
+619.032,3.1392336,-0.1349699,,Smooth Deceleration
+620.032,3.105107,-0.0341266,,Smooth Deceleration
+621.032,2.662711,-0.442396,,Smooth Deceleration
+622.032,2.4818552,-0.1808558,,Smooth Deceleration
+623.032,2.388098,-0.0937572,,Smooth Deceleration
+624.032,2.1948678,-0.1932302,,Smooth Deceleration
+625.032,1.9481982,-0.2466696,,Smooth Deceleration
+626.032,1.2437707,-0.7044275,,Smooth Deceleration
+627.032,1.7008039,0.4570332,Rapid Acceleration,
+628.032,1.9025946,0.2017907,Rapid Acceleration,
+629.032,2.2319682,0.3293736,Rapid Acceleration,
+630.032,2.2957733,0.0638051,Rapid Acceleration,
+631.032,2.5184557,0.2226824,Rapid Acceleration,
+632.032,2.758418,0.2399623,Rapid Acceleration,
+633.032,2.7973685,0.0389505,Rapid Acceleration,
+634.032,2.7570992,-0.0402693,,Smooth Deceleration
+635.032,3.0903258,0.3332266,Rapid Acceleration,
+636.032,2.9177713,-0.1725545,,Smooth Deceleration
+637.032,2.6799848,-0.2377865,,Smooth Deceleration
+638.032,2.6335692,-0.0464156,,Smooth Deceleration
+639.032,2.5111115,-0.1224577,,Smooth Deceleration
+640.032,2.5207696,0.0096581,Rapid Acceleration,
+641.032,2.3885481,-0.1322215,,Smooth Deceleration
+642.032,2.2295125,-0.1590356,,Smooth Deceleration
+643.032,2.4173167,0.1878042,Rapid Acceleration,
+644.032,2.5247998,0.1074831,Rapid Acceleration,
+645.032,2.7446153,0.2198155,Rapid Acceleration,
+646.032,2.8909132,0.1462979,Rapid Acceleration,
+647.032,2.7998657,-0.0910475,,Smooth Deceleration
+649.032,3.000318,0.10022615,Rapid Acceleration,
+650.032,3.3002172,0.2998992,Rapid Acceleration,
+651.032,3.439281,0.1390638,Rapid Acceleration,
+652.032,3.4259992,-0.0132818,,Smooth Deceleration
+653.032,3.2319758,-0.1940234,,Smooth Deceleration
+654.032,3.4717185,0.2397427,Rapid Acceleration,
+655.032,3.3012877,-0.1704308,,Smooth Deceleration
+656.032,3.3556097,0.054322,Rapid Acceleration,
+657.032,3.1275053,-0.2281044,,Smooth Deceleration
+658.032,2.8553789,-0.2721264,,Smooth Deceleration
+659.032,2.7337446,-0.1216343,,Smooth Deceleration
+660.032,2.2239542,-0.5097904,,Smooth Deceleration
+661.032,2.317802,0.0938478,Rapid Acceleration,
+662.032,2.1877239,-0.1300781,,Smooth Deceleration
+663.032,2.1853037,-0.0024202,,Smooth Deceleration
+664.032,1.9371893,-0.2481144,,Smooth Deceleration
+665.032,1.6386614,-0.2985279,,Smooth Deceleration
+666.032,1.6234932,-0.0151682,,Smooth Deceleration
+667.032,1.8771343,0.2536411,Rapid Acceleration,
+669.032,1.6432266,-0.11695385,,Smooth Deceleration
+670.032,1.8842056,0.240979,Rapid Acceleration,
+671.032,1.7339809,-0.1502247,,Smooth Deceleration
+672.032,1.7963005,0.0623196,Rapid Acceleration,
+673.032,1.6451385,-0.151162,,Smooth Deceleration
+674.032,1.5312655,-0.113873,,Smooth Deceleration
+675.032,2.113842,0.5825765,Rapid Acceleration,
+676.032,1.8077152,-0.3061268,,Smooth Deceleration
+677.032,1.5550792,-0.252636,,Smooth Deceleration
+678.032,1.6148357,0.0597565,Rapid Acceleration,
+679.032,1.6816362,0.0668005,Rapid Acceleration,
+680.032,1.9576015,0.2759653,Rapid Acceleration,
+681.032,2.1628485,0.205247,Rapid Acceleration,
+682.032,2.6092396,0.4463911,Rapid Acceleration,
+683.032,2.0862308,-0.5230088,,Smooth Deceleration
+684.032,2.1475573,0.0613265,Rapid Acceleration,
+685.032,2.1650412,0.0174839,Rapid Acceleration,
+686.032,1.8588393,-0.3062019,,Smooth Deceleration
+687.032,1.817937,-0.0409023,,Smooth Deceleration
+688.032,2.0021613,0.1842243,Rapid Acceleration,
+689.032,2.590947,0.5887857,Rapid Acceleration,
+691.032,3.6867752,0.5479141,Rapid Acceleration,
+692.032,4.0720997,0.3853245,Rapid Acceleration,
+693.032,4.1834583,0.1113586,Rapid Acceleration,
+694.032,3.7864802,-0.3969781,,Smooth Deceleration
+695.032,3.3981438,-0.3883364,,Smooth Deceleration
+696.032,2.9890995,-0.4090443,,Smooth Deceleration
+697.032,3.2991412,0.3100417,Rapid Acceleration,
+698.032,3.7216265,0.4224853,Rapid Acceleration,
+699.032,4.045676,0.3240495,Rapid Acceleration,
+700.032,3.849126,-0.19655,,Smooth Deceleration
+701.032,3.362904,-0.486222,,Smooth Deceleration
+702.032,3.729731,0.366827,Rapid Acceleration,
+703.032,4.0915246,0.3617936,Rapid Acceleration,
+704.032,4.581405,0.4898804,Rapid Acceleration,
+705.032,4.8626313,0.2812263,Rapid Acceleration,
+706.032,5.0914097,0.2287784,Rapid Acceleration,
+707.032,4.855926,-0.2354837,,Smooth Deceleration
+708.032,3.8151007,-1.0408253,,Smooth Deceleration
+709.032,3.8123152,-0.0027855,,Smooth Deceleration
+710.032,3.3862982,-0.426017,,Smooth Deceleration
+711.032,3.53779,0.1514918,Rapid Acceleration,
+712.032,3.7681687,0.2303787,Rapid Acceleration,
+713.032,4.0191183,0.2509496,Rapid Acceleration,
+714.032,4.5471845,0.5280662,Rapid Acceleration,
+715.032,5.0983763,0.5511918,Rapid Acceleration,
+716.032,5.384442,0.2860657,Rapid Acceleration,
+717.032,5.389019,0.004577,Rapid Acceleration,
+718.0329999,5.270143,-0.11875725,,Smooth Deceleration
+719.0329999,5.2455807,-0.0245623,,Smooth Deceleration
+720.0329999,5.2694783,0.0238976,Rapid Acceleration,
+721.0329999,5.571113,0.3016347,Rapid Acceleration,
+722.0329999,5.6403685,0.0692555,Rapid Acceleration,
+723.0329999,5.641037,0.0006685,Rapid Acceleration,
+724.0329999,5.680031,0.038994,Rapid Acceleration,
+725.0329999,5.2278643,-0.4521667,,Smooth Deceleration
+726.0329999,4.6342673,-0.593597,,Smooth Deceleration
+727.0329999,4.3487706,-0.2854967,,Smooth Deceleration
+728.0329999,4.1802692,-0.1685014,,Smooth Deceleration
+729.0329999,4.119189,-0.0610802,,Smooth Deceleration
+730.0329999,4.189249,0.07006,Rapid Acceleration,
+731.0329999,4.192342,0.003093,Rapid Acceleration,
+732.0329999,3.3730943,-0.8192477,,Smooth Deceleration
+733.0329999,2.9923341,-0.3807602,,Smooth Deceleration
+734.0329999,3.4961312,0.5037971,Rapid Acceleration,
+735.0329999,4.0800004,0.5838692,Rapid Acceleration,
+736.0329999,4.3549395,0.2749391,Rapid Acceleration,
+737.0329999,4.581715,0.2267755,Rapid Acceleration,
+738.0329999,4.738422,0.156707,Rapid Acceleration,
+739.0329999,4.870388,0.131966,Rapid Acceleration,
+740.0329999,4.730107,-0.140281,,Smooth Deceleration
+741.0329999,4.993796,0.263689,Rapid Acceleration,
+742.0329999,5.0418153,0.0480193,Rapid Acceleration,
+743.0329999,5.0846925,0.0428772,Rapid Acceleration,
+744.0329999,4.9247575,-0.159935,,Smooth Deceleration
+745.0329999,4.8865457,-0.0382118,,Smooth Deceleration
+746.0329999,4.74252,-0.1440257,,Smooth Deceleration
+747.0329999,4.7394147,-0.0031053,,Smooth Deceleration
+748.0329999,4.686955,-0.0524597,,Smooth Deceleration
+749.0329999,4.423864,-0.263091,,Smooth Deceleration
+750.0329999,3.4430292,-0.9808348,,Smooth Deceleration
+751.0329999,2.8829284,-0.5601008,,Smooth Deceleration
+752.0329999,2.9621162,0.0791878,Rapid Acceleration,
+753.0329999,3.321153,0.3590368,Rapid Acceleration,
+754.0329999,3.4914873,0.1703343,Rapid Acceleration,
+755.0329999,3.6075437,0.1160564,Rapid Acceleration,
+756.0329999,3.7385178,0.1309741,Rapid Acceleration,
+757.0329999,3.7011988,-0.037319,,Smooth Deceleration
+758.0329999,3.5869603,-0.1142385,,Smooth Deceleration
+759.0329999,3.2428849,-0.3440754,,Smooth Deceleration
+760.0329999,3.4888906,0.2460057,Rapid Acceleration,
+761.0329999,3.5242774,0.0353868,Rapid Acceleration,
+762.0329999,3.5266323,0.0023549,Rapid Acceleration,
+763.0329999,3.3054323,-0.2212,,Smooth Deceleration
+764.0329999,2.9451227,-0.3603096,,Smooth Deceleration
+765.0329999,2.7354155,-0.2097072,,Smooth Deceleration
+766.0329999,2.69265,-0.0427655,,Smooth Deceleration
+767.0329999,2.7674372,0.0747872,Rapid Acceleration,
+768.0329999,2.7721362,0.004699,Rapid Acceleration,
+769.0329999,2.932711,0.1605748,Rapid Acceleration,
+770.0329999,2.9668581,0.0341471,Rapid Acceleration,
+771.0329999,3.1020904,0.1352323,Rapid Acceleration,
+772.0329999,2.7639585,-0.3381319,,Smooth Deceleration
+773.0329999,3.1384325,0.374474,Rapid Acceleration,
+774.0329999,2.920383,-0.2180495,,Smooth Deceleration
+775.0329999,2.754377,-0.166006,,Smooth Deceleration
+776.0329999,2.9643116,0.2099346,Rapid Acceleration,
+777.0329999,2.8382208,-0.1260908,,Smooth Deceleration
+778.0329999,2.8004029,-0.0378179,,Smooth Deceleration
+779.0329999,3.0383673,0.2379644,Rapid Acceleration,
+780.0329999,3.3170786,0.2787113,Rapid Acceleration,
+781.0329999,3.0434546,-0.273624,,Smooth Deceleration
+782.0329999,3.5766232,0.5331686,Rapid Acceleration,
+783.0329999,3.4045174,-0.1721058,,Smooth Deceleration
+784.0329999,3.8261714,0.421654,Rapid Acceleration,
+785.0329999,3.9968722,0.1707008,Rapid Acceleration,
+786.0329999,4.0625615,0.0656893,Rapid Acceleration,
+787.0329999,4.101159,0.0385975,Rapid Acceleration,
+788.0329999,3.641465,-0.459694,,Smooth Deceleration
+789.0329999,3.7855122,0.1440472,Rapid Acceleration,
+790.0329999,4.0193567,0.2338445,Rapid Acceleration,
+791.0329999,3.0595634,-0.9597933,,Smooth Deceleration
+792.0329999,3.2834423,0.2238789,Rapid Acceleration,
+793.0329999,3.6754346,0.3919923,Rapid Acceleration,
+794.0329999,3.5828042,-0.0926304,,Smooth Deceleration
+795.0329999,2.6978621,-0.8849421,,Smooth Deceleration
+796.0329999,2.6581857,-0.0396764,,Smooth Deceleration
+797.0329999,3.058818,0.4006323,Rapid Acceleration,
+798.0329999,2.6295626,-0.4292554,,Smooth Deceleration
+799.0329999,2.333707,-0.2958556,,Smooth Deceleration
+800.0329999,2.4455113,0.1118043,Rapid Acceleration,
+801.0329999,2.989864,0.5443527,Rapid Acceleration,
+802.0329999,3.3627,0.372836,Rapid Acceleration,
+803.0329999,3.1750793,-0.1876207,,Smooth Deceleration
+804.0329999,3.1240857,-0.0509936,,Smooth Deceleration
+805.0329999,2.9065416,-0.2175441,,Smooth Deceleration
+806.0329999,2.7125425,-0.1939991,,Smooth Deceleration
+807.0329999,2.9856856,0.2731431,Rapid Acceleration,
+808.0329999,2.6163082,-0.3693774,,Smooth Deceleration
+809.0329999,2.5713038,-0.0450044,,Smooth Deceleration
+810.0329999,2.5196917,-0.0516121,,Smooth Deceleration
+811.0329999,2.8586595,0.3389678,Rapid Acceleration,
+812.0329999,2.4519274,-0.4067321,,Smooth Deceleration
+813.0329999,2.491258,0.0393306,Rapid Acceleration,
+814.0329999,2.993936,0.502678,Rapid Acceleration,
+815.0329999,2.719777,-0.274159,,Smooth Deceleration
+816.0329999,3.582101,0.862324,Rapid Acceleration,
+817.0329999,3.6635923,0.0814913,Rapid Acceleration,
+818.0329999,3.6087873,-0.054805,,Smooth Deceleration
+819.0329999,4.1767836,0.5679963,Rapid Acceleration,
+820.0329999,4.173497,-0.0032866,,Smooth Deceleration
+821.0329999,3.648465,-0.525032,,Smooth Deceleration
+822.0329999,2.7232003,-0.9252647,,Smooth Deceleration
+823.0329999,2.5357637,-0.1874366,,Smooth Deceleration
+824.0329999,3.0899994,0.5542357,Rapid Acceleration,
+825.0329999,3.381268,0.2912686,Rapid Acceleration,
+826.0329999,3.714237,0.332969,Rapid Acceleration,
+827.0329999,3.154232,-0.560005,,Smooth Deceleration
+828.0329999,2.8818176,-0.2724144,,Smooth Deceleration
+829.0329999,2.9541452,0.0723276,Rapid Acceleration,
+830.0329999,3.2337697,0.2796245,Rapid Acceleration,
+831.0329999,3.6278276,0.3940579,Rapid Acceleration,
+832.0329999,4.05953,0.4317024,Rapid Acceleration,
+833.0329999,4.2931266,0.2335966,Rapid Acceleration,
+834.0329999,4.4301615,0.1370349,Rapid Acceleration,
+835.0329999,4.449437,0.0192755,Rapid Acceleration,
+836.0329999,4.3120966,-0.1373404,,Smooth Deceleration
+837.0329999,4.0779705,-0.2341261,,Smooth Deceleration
+838.0329999,3.374654,-0.7033165,,Smooth Deceleration
+839.0329999,2.667298,-0.707356,,Smooth Deceleration
+840.0329999,2.4372513,-0.2300467,,Smooth Deceleration
+841.0329999,2.8354254,0.3981741,Rapid Acceleration,
+842.0329999,3.020284,0.1848586,Rapid Acceleration,
+843.0329999,3.6126482,0.5923642,Rapid Acceleration,
+844.0329999,3.9540048,0.3413566,Rapid Acceleration,
+845.0329999,4.262254,0.3082492,Rapid Acceleration,
+846.0329999,4.6423473,0.3800933,Rapid Acceleration,
+847.0329999,4.7695007,0.1271534,Rapid Acceleration,
+848.0329999,4.5341377,-0.235363,,Smooth Deceleration
+849.0329999,4.5622616,0.0281239,Rapid Acceleration,
+850.0329999,5.0268598,0.4645982,Rapid Acceleration,
+851.0329999,5.244042,0.2171822,Rapid Acceleration,
+852.0329999,5.4282923,0.1842503,Rapid Acceleration,
+853.0329999,5.5964484,0.1681561,Rapid Acceleration,
+854.0329999,5.6065626,0.0101142,Rapid Acceleration,
+855.0329999,5.8100314,0.2034688,Rapid Acceleration,
+856.0329999,5.8242397,0.0142083,Rapid Acceleration,
+857.0329999,6.1732764,0.3490367,Rapid Acceleration,
+858.0329999,5.821712,-0.3515644,,Smooth Deceleration
+859.0329999,5.4005227,-0.4211893,,Smooth Deceleration
+860.0329999,5.5418506,0.1413279,Rapid Acceleration,
+861.0329999,5.53541,-0.0064406,,Smooth Deceleration
+862.0329999,5.38877,-0.14664,,Smooth Deceleration
+863.0329999,5.2405157,-0.1482543,,Smooth Deceleration
+864.0329999,4.803579,-0.4369367,,Smooth Deceleration
+865.0329999,3.0189142,-1.7846648,,Smooth Deceleration
+866.0329999,2.473218,-0.5456962,,Smooth Deceleration
+867.0329999,2.8084893,0.3352713,Rapid Acceleration,
+868.0329999,3.3351774,0.5266881,Rapid Acceleration,
+869.0329999,4.0065885,0.6714111,Rapid Acceleration,
+870.0329999,4.7833824,0.7767939,Rapid Acceleration,
+871.0329999,5.146266,0.3628836,Rapid Acceleration,
+872.0329999,5.0439672,-0.1022988,,Smooth Deceleration
+873.0329999,5.2192636,0.1752964,Rapid Acceleration,
+874.0329999,5.2622213,0.0429577,Rapid Acceleration,
+875.0329999,5.3807306,0.1185093,Rapid Acceleration,
+876.0329999,5.4465322,0.0658016,Rapid Acceleration,
+877.0329999,5.5217385,0.0752063,Rapid Acceleration,
+878.0329999,5.232482,-0.2892565,,Smooth Deceleration
+879.0329999,4.9913735,-0.2411085,,Smooth Deceleration
+880.0329999,4.8315926,-0.1597809,,Smooth Deceleration
+881.0329999,4.6387024,-0.1928902,,Smooth Deceleration
+882.0329999,4.6372924,-0.00141,,Smooth Deceleration
+883.0329999,4.4756207,-0.1616717,,Smooth Deceleration
+884.0329999,4.5147476,0.0391269,Rapid Acceleration,
+885.0329999,4.674551,0.1598034,Rapid Acceleration,
+886.0329999,4.749952,0.075401,Rapid Acceleration,
+887.0329999,4.434769,-0.315183,,Smooth Deceleration
+888.0329999,4.258445,-0.176324,,Smooth Deceleration
+889.0329999,3.579789,-0.678656,,Smooth Deceleration
+890.0329999,3.2855415,-0.2942475,,Smooth Deceleration
+891.0329999,3.545076,0.2595345,Rapid Acceleration,
+892.0329999,3.7707405,0.2256645,Rapid Acceleration,
+893.0329999,3.517251,-0.2534895,,Smooth Deceleration
+894.0329999,4.1275063,0.6102553,Rapid Acceleration,
+895.0329999,4.503889,0.3763827,Rapid Acceleration,
+896.0329999,4.225445,-0.278444,,Smooth Deceleration
+897.0329999,3.2191222,-1.0063228,,Smooth Deceleration
+898.0329999,3.009886,-0.2092362,,Smooth Deceleration
+899.0329999,2.7983396,-0.2115464,,Smooth Deceleration
+900.0329999,2.5847926,-0.213547,,Smooth Deceleration
+901.0329999,2.6850114,0.1002188,Rapid Acceleration,
+902.0329999,3.1633565,0.4783451,Rapid Acceleration,
+903.0329999,4.233951,1.0705945,Rapid Acceleration,
+904.0329999,4.501553,0.267602,Rapid Acceleration,
+905.0329999,4.929779,0.428226,Rapid Acceleration,
+906.0329999,4.834396,-0.095383,,Smooth Deceleration
+907.0329999,4.72068,-0.113716,,Smooth Deceleration
+908.0329999,4.510982,-0.209698,,Smooth Deceleration
+909.0329999,4.0978923,-0.4130897,,Smooth Deceleration
+910.0329999,3.591274,-0.5066183,,Smooth Deceleration
+911.0329999,3.1861799,-0.4050941,,Smooth Deceleration
+912.0329999,2.9516933,-0.2344866,,Smooth Deceleration
+913.0329999,2.923747,-0.0279463,,Smooth Deceleration
+914.0329999,3.8337007,0.9099537,Rapid Acceleration,
+915.0329999,4.8378124,1.0041117,Rapid Acceleration,
+916.0329999,5.6575885,0.8197761,Rapid Acceleration,
+917.0329999,6.3122935,0.654705,Rapid Acceleration,
+918.0329999,5.756326,-0.5559675,,Smooth Deceleration
+919.0329999,6.0904922,0.3341662,Rapid Acceleration,
+920.0329999,6.9977994,0.9073072,Rapid Acceleration,
+921.0329999,7.940041,0.9422416,Rapid Acceleration,
+922.0329999,9.0895605,1.1495195,Rapid Acceleration,
+923.0329999,10.333386,1.2438255,Rapid Acceleration,
+924.0329999,11.037802,0.704416,Rapid Acceleration,
+925.0329999,11.61259,0.574788,Rapid Acceleration,
+926.0329999,11.165853,-0.446737,,Smooth Deceleration
+927.0329999,11.067537,-0.098316,,Smooth Deceleration
+928.0329999,11.43104,0.363503,Rapid Acceleration,
+929.0329999,12.061587,0.630547,Rapid Acceleration,
+930.0329999,12.8385935,0.7770065,Rapid Acceleration,
+931.0329999,13.5934,0.7548065,Rapid Acceleration,
+932.0329999,14.203915,0.610515,Rapid Acceleration,
+934.0329999,14.775337,0.285711,Rapid Acceleration,
+935.0329999,14.873544,0.098207,Rapid Acceleration,
+936.0329999,15.371362,0.497818,Rapid Acceleration,
+937.0329999,15.542928,0.171566,Rapid Acceleration,
+938.0329999,15.61857,0.075642,Rapid Acceleration,
+939.0329999,15.726422,0.107852,Rapid Acceleration,
+940.0329999,15.726776,0.000354,Rapid Acceleration,
+941.0329999,15.666567,-0.060209,,Smooth Deceleration
+942.0329999,15.391968,-0.274599,,Smooth Deceleration
+943.0329999,15.171014,-0.220954,,Smooth Deceleration
+944.0329999,14.961246,-0.209768,,Smooth Deceleration
+945.0329999,15.007294,0.046048,Rapid Acceleration,
+946.0329999,14.885892,-0.121402,,Smooth Deceleration
+947.0329999,14.503943,-0.381949,,Smooth Deceleration
+948.0329999,14.263442,-0.240501,,Smooth Deceleration
+949.0329999,14.259173,-0.004269,,Smooth Deceleration
+950.0329999,14.290178,0.031005,Rapid Acceleration,
+951.0329999,14.352702,0.062524,Rapid Acceleration,
+953.0329999,15.140234,0.393766,Rapid Acceleration,
+954.0329999,15.562658,0.422424,Rapid Acceleration,
+955.0329999,16.056515,0.493857,Rapid Acceleration,
+956.0329999,16.377647,0.321132,Rapid Acceleration,
+957.0329999,16.730606,0.352959,Rapid Acceleration,
+958.0329999,16.682888,-0.047718,,Smooth Deceleration
+959.0329999,16.526093,-0.156795,,Smooth Deceleration
+960.0329999,16.287203,-0.23889,,Smooth Deceleration
+961.0329999,16.445925,0.158722,Rapid Acceleration,
+962.0329999,16.399858,-0.046067,,Smooth Deceleration
+963.0329999,16.248621,-0.151237,,Smooth Deceleration
+964.0329999,16.173689,-0.074932,,Smooth Deceleration
+965.0329999,15.463935,-0.709754,,Smooth Deceleration
+966.0329999,15.961357,0.497422,Rapid Acceleration,
+967.0329999,16.39229,0.430933,Rapid Acceleration,
+968.0329999,16.98608,0.59379,Rapid Acceleration,
+969.0329999,17.33844,0.35236,Rapid Acceleration,
+970.0329999,17.402792,0.064352,Rapid Acceleration,
+971.0329999,17.629898,0.227106,Rapid Acceleration,
+972.0329999,17.954771,0.324873,Rapid Acceleration,
+974.0329999,18.8693,0.4572645,Rapid Acceleration,
+975.0329999,19.249361,0.380061,Rapid Acceleration,
+976.0329999,19.315075,0.065714,Rapid Acceleration,
+977.0329999,19.239765,-0.07531,,Smooth Deceleration
+978.0329999,18.950722,-0.289043,,Smooth Deceleration
+979.0329999,18.568996,-0.381726,,Smooth Deceleration
+980.0329999,18.529055,-0.039941,,Smooth Deceleration
+981.0329999,18.535393,0.006338,Rapid Acceleration,
+982.0329999,18.270912,-0.264481,,Smooth Deceleration
+983.0329999,17.867575,-0.403337,,Smooth Deceleration
+984.0329999,17.494547,-0.373028,,Smooth Deceleration
+985.0329999,17.171932,-0.322615,,Smooth Deceleration
+986.0329999,16.842392,-0.32954,,Smooth Deceleration
+987.0329999,16.399998,-0.442394,,Smooth Deceleration
+988.0329999,15.91663,-0.483368,,Smooth Deceleration
+989.0329999,15.590925,-0.325705,,Smooth Deceleration
+990.0329999,15.334577,-0.256348,,Smooth Deceleration
+991.0329999,15.281301,-0.053276,,Smooth Deceleration
+992.0329999,15.251162,-0.030139,,Smooth Deceleration
+993.0329999,14.770979,-0.480183,,Smooth Deceleration
+995.0329999,14.007451,-0.381764,,Smooth Deceleration
+996.0329999,14.169836,0.162385,Rapid Acceleration,
+997.0329999,14.350815,0.180979,Rapid Acceleration,
+998.0329999,14.600774,0.249959,Rapid Acceleration,
+999.0329999,14.660638,0.059864,Rapid Acceleration,
+1000.033,14.862357,0.201719,Rapid Acceleration,
+1001.033,15.16182,0.299463,Rapid Acceleration,
+1002.033,15.923888,0.762068,Rapid Acceleration,
+1003.033,16.653618,0.72973,Rapid Acceleration,
+1004.033,17.57765,0.924032,Rapid Acceleration,
+1005.033,18.4275,0.84985,Rapid Acceleration,
+1006.033,19.064392,0.636892,Rapid Acceleration,
+1007.033,19.612726,0.548334,Rapid Acceleration,
+1008.033,20.135584,0.522858,Rapid Acceleration,
+1009.033,20.792856,0.657272,Rapid Acceleration,
+1010.033,21.334202,0.541346,Rapid Acceleration,
+1011.033,21.768879,0.434677,Rapid Acceleration,
+1012.033,21.500692,-0.268187,,Smooth Deceleration
+1013.033,21.073895,-0.426797,,Smooth Deceleration
+1015.033,20.28825,-0.3928225,,Smooth Deceleration
+1016.033,20.368624,0.080374,Rapid Acceleration,
+1017.033,20.46948,0.100856,Rapid Acceleration,
+1018.033,20.253756,-0.215724,,Smooth Deceleration
+1019.033,20.209654,-0.044102,,Smooth Deceleration
+1020.033,20.188484,-0.02117,,Smooth Deceleration
+1021.033,19.677109,-0.511375,,Smooth Deceleration
+1022.033,18.730495,-0.946614,,Smooth Deceleration
+1023.033,18.541534,-0.188961,,Smooth Deceleration
+1024.033,18.227072,-0.314462,,Smooth Deceleration
+1025.033,17.96771,-0.259362,,Smooth Deceleration
+1026.033,17.702356,-0.265354,,Smooth Deceleration
+1027.033,17.666723,-0.035633,,Smooth Deceleration
+1028.033,17.682442,0.015719,Rapid Acceleration,
+1029.033,17.702547,0.020105,Rapid Acceleration,
+1030.033,17.958616,0.256069,Rapid Acceleration,
+1031.033,18.472488,0.513872,Rapid Acceleration,
+1032.033,18.892748,0.42026,Rapid Acceleration,
+1033.033,18.634815,-0.257933,,Smooth Deceleration
+1034.033,17.55609,-1.078725,,Smooth Deceleration
+1035.033,16.691864,-0.864226,,Smooth Deceleration
+1036.033,16.1755,-0.516364,,Smooth Deceleration
+1037.033,15.77922,-0.39628,,Smooth Deceleration
+1038.033,15.407592,-0.371628,,Smooth Deceleration
+1039.033,15.260637,-0.146955,,Smooth Deceleration
+1040.033,15.188451,-0.072186,,Smooth Deceleration
+1041.033,15.264599,0.076148,Rapid Acceleration,
+1042.033,15.545342,0.280743,Rapid Acceleration,
+1043.033,16.078398,0.533056,Rapid Acceleration,
+1044.033,16.051445,-0.026953,,Smooth Deceleration
+1045.033,16.15495,0.103505,Rapid Acceleration,
+1046.033,16.313757,0.158807,Rapid Acceleration,
+1047.033,17.116798,0.803041,Rapid Acceleration,
+1048.033,17.651758,0.53496,Rapid Acceleration,
+1049.033,18.204762,0.553004,Rapid Acceleration,
+1050.033,18.79853,0.593768,Rapid Acceleration,
+1051.033,18.924055,0.125525,Rapid Acceleration,
+1052.033,18.569353,-0.354702,,Smooth Deceleration
+1053.033,18.64702,0.077667,Rapid Acceleration,
+1054.033,18.16901,-0.47801,,Smooth Deceleration
+1055.033,16.700588,-1.468422,,Smooth Deceleration
+1057.033,13.248572,-1.726008,,Smooth Deceleration
+1058.033,11.339839,-1.908733,,Smooth Deceleration
+1059.033,9.605709,-1.73413,,Smooth Deceleration
+1060.033,7.564374,-2.041335,,Rapid Deceleration
+1061.033,5.2779894,-2.2863846,,Rapid Deceleration
+1062.033,4.7834983,-0.4944911,,Smooth Deceleration
+1063.033,6.1040916,1.3205933,Rapid Acceleration,
+1064.033,7.329492,1.2254004,Rapid Acceleration,
+1065.033,9.167648,1.838156,Rapid Acceleration,
+1066.033,11.024483,1.856835,Rapid Acceleration,
+1067.033,11.598012,0.573529,Rapid Acceleration,
+1068.033,12.032992,0.43498,Rapid Acceleration,
+1069.033,13.1367235,1.1037315,Rapid Acceleration,
+1070.033,14.1163645,0.979641,Rapid Acceleration,
+1071.033,14.13997,0.0236055,Rapid Acceleration,
+1072.033,13.895726,-0.244244,,Smooth Deceleration
+1073.033,14.0411625,0.1454365,Rapid Acceleration,
+1074.033,14.136278,0.0951155,Rapid Acceleration,
+1075.033,14.036816,-0.099462,,Smooth Deceleration
+1076.033,13.682944,-0.353872,,Smooth Deceleration
+1078.033,12.767713,-0.4576155,,Smooth Deceleration
+1079.033,12.272114,-0.495599,,Smooth Deceleration
+1080.033,11.212741,-1.059373,,Smooth Deceleration
+1081.033,9.159656,-2.053085,,Rapid Deceleration
+1082.033,6.4399767,-2.7196793,,Rapid Deceleration
+1083.033,3.8028595,-2.6371172,,Rapid Deceleration
+1084.033,2.5398183,-1.2630412,,Smooth Deceleration
+1085.033,3.2368953,0.697077,Rapid Acceleration,
+1086.033,4.4009995,1.1641042,Rapid Acceleration,
+1087.033,5.8396215,1.438622,Rapid Acceleration,
+1088.033,6.1361403,0.2965188,Rapid Acceleration,
+1089.033,4.755684,-1.3804563,,Smooth Deceleration
+1090.033,3.8359125,-0.9197715,,Smooth Deceleration
+1091.033,4.1441727,0.3082602,Rapid Acceleration,
+1092.033,5.1231523,0.9789796,Rapid Acceleration,
+1093.033,5.6845784,0.5614261,Rapid Acceleration,
+1094.033,5.0031652,-0.6814132,,Smooth Deceleration
+1095.033,4.4652767,-0.5378885,,Smooth Deceleration
+1096.033,4.1716247,-0.293652,,Smooth Deceleration
+1097.033,5.830731,1.6591063,Rapid Acceleration,
+1099.033,8.952094,1.5606815,Rapid Acceleration,
+1100.033,9.689936,0.737842,Rapid Acceleration,
+1101.033,9.956716,0.26678,Rapid Acceleration,
+1102.033,9.965556,0.00884,Rapid Acceleration,
+1103.033,9.984036,0.01848,Rapid Acceleration,
+1104.033,10.115768,0.131732,Rapid Acceleration,
+1105.033,10.3194065,0.2036385,Rapid Acceleration,
+1106.033,10.580067,0.2606605,Rapid Acceleration,
+1107.033,10.875804,0.295737,Rapid Acceleration,
+1108.033,10.486237,-0.389567,,Smooth Deceleration
+1109.033,9.682318,-0.803919,,Smooth Deceleration
+1110.033,8.821196,-0.861122,,Smooth Deceleration
+1111.033,7.197419,-1.623777,,Smooth Deceleration
+1112.033,6.6749372,-0.5224818,,Smooth Deceleration
+1113.033,7.4508166,0.7758794,Rapid Acceleration,
+1114.033,8.456181,1.0053644,Rapid Acceleration,
+1115.033,9.594186,1.138005,Rapid Acceleration,
+1116.033,10.545544,0.951358,Rapid Acceleration,
+1117.033,11.529569,0.984025,Rapid Acceleration,
+1118.033,11.920994,0.391425,Rapid Acceleration,
+1120.033,12.153448,0.116227,Rapid Acceleration,
+1121.033,12.071937,-0.081511,,Smooth Deceleration
+1122.033,12.194017,0.12208,Rapid Acceleration,
+1123.033,12.426358,0.232341,Rapid Acceleration,
+1124.033,12.820461,0.394103,Rapid Acceleration,
+1125.033,13.217881,0.39742,Rapid Acceleration,
+1126.033,13.617832,0.399951,Rapid Acceleration,
+1127.033,13.639465,0.021633,Rapid Acceleration,
+1128.033,13.12688,-0.512585,,Smooth Deceleration
+1129.033,12.562342,-0.564538,,Smooth Deceleration
+1130.033,11.885281,-0.677061,,Smooth Deceleration
+1131.033,11.242751,-0.64253,,Smooth Deceleration
+1132.033,10.109499,-1.133252,,Smooth Deceleration
+1133.033,8.738159,-1.37134,,Smooth Deceleration
+1134.033,8.22439,-0.513769,,Smooth Deceleration
+1135.033,8.933513,0.709123,Rapid Acceleration,
+1136.033,10.077732,1.144219,Rapid Acceleration,
+1137.033,10.584212,0.50648,Rapid Acceleration,
+1138.033,10.6527,0.068488,Rapid Acceleration,
+1139.033,10.6045685,-0.0481315,,Smooth Deceleration
+1140.033,10.504414,-0.1001545,,Smooth Deceleration
+1141.033,10.379062,-0.125352,,Smooth Deceleration
+1142.033,10.473608,0.094546,Rapid Acceleration,
+1143.033,10.756556,0.282948,Rapid Acceleration,
+1144.033,10.888712,0.132156,Rapid Acceleration,
+1145.033,11.047908,0.159196,Rapid Acceleration,
+1146.033,11.493699,0.445791,Rapid Acceleration,
+1147.033,12.083613,0.589914,Rapid Acceleration,
+1148.033,12.798259,0.714646,Rapid Acceleration,
+1149.033,13.089961,0.291702,Rapid Acceleration,
+1150.033,12.502844,-0.587117,,Smooth Deceleration
+1151.033,12.147403,-0.355441,,Smooth Deceleration
+1152.033,11.908506,-0.238897,,Smooth Deceleration
+1153.033,11.30799,-0.600516,,Smooth Deceleration
+1154.033,10.139659,-1.168331,,Smooth Deceleration
+1155.033,8.407857,-1.731802,,Smooth Deceleration
+1156.033,7.02208,-1.385777,,Smooth Deceleration
+1157.033,7.1536403,0.1315603,Rapid Acceleration,
+1158.033,7.366225,0.2125847,Rapid Acceleration,
+1159.033,7.729828,0.363603,Rapid Acceleration,
+1160.033,7.984154,0.254326,Rapid Acceleration,
+1161.033,8.04613,0.061976,Rapid Acceleration,
+1162.033,8.123265,0.077135,Rapid Acceleration,
+1163.033,8.076862,-0.046403,,Smooth Deceleration
+1164.033,7.842722,-0.23414,,Smooth Deceleration
+1165.033,6.7223473,-1.1203747,,Smooth Deceleration
+1166.033,5.7213106,-1.0010367,,Smooth Deceleration
+1167.033,5.739642,0.0183314,Rapid Acceleration,
+1168.033,5.7196794,-0.0199626,,Smooth Deceleration
+1169.033,5.5153065,-0.2043729,,Smooth Deceleration
+1170.033,4.7661686,-0.7491379,,Smooth Deceleration
+1171.033,4.4264393,-0.3397293,,Smooth Deceleration
+1172.033,3.8862796,-0.5401597,,Smooth Deceleration
+1173.033,3.6423995,-0.2438801,,Smooth Deceleration
+1174.033,3.4377508,-0.2046487,,Smooth Deceleration
+1175.033,3.1768587,-0.2608921,,Smooth Deceleration
+1176.033,3.5770667,0.400208,Rapid Acceleration,
+1177.033,4.205641,0.6285743,Rapid Acceleration,
+1178.033,5.005073,0.799432,Rapid Acceleration,
+1179.033,5.49497,0.489897,Rapid Acceleration,
+1180.033,5.9673743,0.4724043,Rapid Acceleration,
+1181.033,6.070253,0.1028787,Rapid Acceleration,
+1182.033,6.2676597,0.1974067,Rapid Acceleration,
+1183.033,6.4087324,0.1410727,Rapid Acceleration,
+1184.033,6.4724107,0.0636783,Rapid Acceleration,
+1185.033,6.5754666,0.1030559,Rapid Acceleration,
+1186.033,6.727877,0.1524104,Rapid Acceleration,
+1187.033,7.0592294,0.3313524,Rapid Acceleration,
+1188.033,7.202884,0.1436546,Rapid Acceleration,
+1189.033,6.46409,-0.738794,,Smooth Deceleration
+1190.033,5.168046,-1.296044,,Smooth Deceleration
+1191.033,3.8290868,-1.3389592,,Smooth Deceleration
+1192.033,2.8867443,-0.9423425,,Smooth Deceleration
+1193.033,2.5105639,-0.3761804,,Smooth Deceleration
+1194.033,2.857956,0.3473921,Rapid Acceleration,
+1195.033,3.3332124,0.4752564,Rapid Acceleration,
+1196.033,3.845731,0.5125186,Rapid Acceleration,
+1197.033,4.512859,0.667128,Rapid Acceleration,
+1198.033,5.238533,0.725674,Rapid Acceleration,
+1199.033,6.1265945,0.8880615,Rapid Acceleration,
+1200.033,5.9469423,-0.1796522,,Smooth Deceleration
+1201.033,5.7878127,-0.1591296,,Smooth Deceleration
+1202.033,6.2682085,0.4803958,Rapid Acceleration,
+1203.033,6.869949,0.6017405,Rapid Acceleration,
+1204.033,7.5733705,0.7034215,Rapid Acceleration,
+1205.033,8.291331,0.7179605,Rapid Acceleration,
+1206.033,8.783183,0.491852,Rapid Acceleration,
+1207.033,8.887908,0.104725,Rapid Acceleration,
+1208.033,8.626361,-0.261547,,Smooth Deceleration
+1209.033,8.667134,0.040773,Rapid Acceleration,
+1210.033,8.844678,0.177544,Rapid Acceleration,
+1211.033,9.060681,0.216003,Rapid Acceleration,
+1212.033,8.558809,-0.501872,,Smooth Deceleration
+1213.033,7.5531764,-1.0056326,,Smooth Deceleration
+1214.033,7.0096135,-0.5435629,,Smooth Deceleration
+1215.033,7.2405686,0.2309551,Rapid Acceleration,
+1216.033,7.704538,0.4639694,Rapid Acceleration,
+1217.033,8.01555,0.311012,Rapid Acceleration,
+1218.033,8.525054,0.509504,Rapid Acceleration,
+1219.033,8.992194,0.46714,Rapid Acceleration,
+1220.033,8.897242,-0.094952,,Smooth Deceleration
+1221.033,8.114246,-0.782996,,Smooth Deceleration
+1222.033,6.8164334,-1.2978126,,Smooth Deceleration
+1223.033,5.44949,-1.3669434,,Smooth Deceleration
+1224.033,4.316625,-1.132865,,Smooth Deceleration
+1225.033,3.639359,-0.677266,,Smooth Deceleration
+1226.033,3.9481745,0.3088155,Rapid Acceleration,
+1227.033,4.297193,0.3490185,Rapid Acceleration,
+1228.033,4.6034527,0.3062597,Rapid Acceleration,
+1229.033,4.519371,-0.0840817,,Smooth Deceleration
+1230.033,4.763131,0.24376,Rapid Acceleration,
+1231.033,4.916282,0.153151,Rapid Acceleration,
+1232.033,4.7353015,-0.1809805,,Smooth Deceleration
+1233.033,4.30331,-0.4319915,,Smooth Deceleration
+1234.033,4.172472,-0.130838,,Smooth Deceleration
+1235.033,4.3657475,0.1932755,Rapid Acceleration,
+1236.033,4.4193316,0.0535841,Rapid Acceleration,
+1237.033,5.143264,0.7239324,Rapid Acceleration,
+1238.033,6.35249,1.209226,Rapid Acceleration,
+1239.033,6.8078394,0.4553494,Rapid Acceleration,
+1240.033,7.5258665,0.7180271,Rapid Acceleration,
+1241.033,8.1525545,0.626688,Rapid Acceleration,
+1242.033,9.225925,1.0733705,Rapid Acceleration,
+1243.033,9.395128,0.169203,Rapid Acceleration,
+1244.033,9.641758,0.24663,Rapid Acceleration,
+1245.033,9.46649,-0.175268,,Smooth Deceleration
+1246.033,9.2333975,-0.2330925,,Smooth Deceleration
+1247.033,8.984097,-0.2493005,,Smooth Deceleration
+1248.033,8.824288,-0.159809,,Smooth Deceleration
+1249.033,8.226892,-0.597396,,Smooth Deceleration
+1250.033,7.5182176,-0.7086744,,Smooth Deceleration
+1251.033,7.4002357,-0.1179819,,Smooth Deceleration
+1252.033,7.2182345,-0.1820012,,Smooth Deceleration
+1253.033,6.915234,-0.3030005,,Smooth Deceleration
+1254.033,6.5912876,-0.3239464,,Smooth Deceleration
+1255.033,5.907471,-0.6838166,,Smooth Deceleration
+1256.033,4.49509,-1.412381,,Smooth Deceleration
+1257.033,4.099391,-0.395699,,Smooth Deceleration
+1258.033,3.922043,-0.177348,,Smooth Deceleration
+1259.033,4.2458563,0.3238133,Rapid Acceleration,
+1260.033,4.628504,0.3826477,Rapid Acceleration,
+1261.033,5.3200326,0.6915286,Rapid Acceleration,
+1262.033,5.95396,0.6339274,Rapid Acceleration,
+1263.033,6.4240212,0.4700612,Rapid Acceleration,
+1264.033,6.848351,0.4243298,Rapid Acceleration,
+1265.033,7.239224,0.390873,Rapid Acceleration,
+1266.033,7.8261623,0.5869383,Rapid Acceleration,
+1267.033,8.108314,0.2821517,Rapid Acceleration,
+1268.033,8.453576,0.345262,Rapid Acceleration,
+1269.033,8.668725,0.215149,Rapid Acceleration,
+1270.033,8.92048,0.251755,Rapid Acceleration,
+1271.033,8.877313,-0.043167,,Smooth Deceleration
+1272.033,8.77082,-0.106493,,Smooth Deceleration
+1273.033,8.683309,-0.087511,,Smooth Deceleration
+1274.033,8.575746,-0.107563,,Smooth Deceleration
+1275.033,8.347894,-0.227852,,Smooth Deceleration
+1276.033,8.114178,-0.233716,,Smooth Deceleration
+1277.033,7.8626394,-0.2515386,,Smooth Deceleration
+1278.033,7.822083,-0.0405564,,Smooth Deceleration
+1279.033,8.111077,0.288994,Rapid Acceleration,
+1280.033,8.519291,0.408214,Rapid Acceleration,
+1281.033,8.909308,0.390017,Rapid Acceleration,
+1282.033,9.281311,0.372003,Rapid Acceleration,
+1283.033,9.656637,0.375326,Rapid Acceleration,
+1284.033,10.076402,0.419765,Rapid Acceleration,
+1285.033,10.51147,0.435068,Rapid Acceleration,
+1286.033,10.798523,0.287053,Rapid Acceleration,
+1287.033,10.756209,-0.042314,,Smooth Deceleration
+1288.033,10.561622,-0.194587,,Smooth Deceleration
+1289.033,10.251829,-0.309793,,Smooth Deceleration
+1290.033,9.933482,-0.318347,,Smooth Deceleration
+1291.033,9.71424,-0.219242,,Smooth Deceleration
+1292.033,9.579558,-0.134682,,Smooth Deceleration
+1293.033,9.035115,-0.544443,,Smooth Deceleration
+1294.033,7.8258634,-1.2092516,,Smooth Deceleration
+1295.033,7.26667,-0.5591934,,Smooth Deceleration
+1296.033,6.686907,-0.579763,,Smooth Deceleration
+1297.033,6.162365,-0.524542,,Smooth Deceleration
+1298.033,5.711585,-0.45078,,Smooth Deceleration
+1299.033,5.010414,-0.701171,,Smooth Deceleration
+1300.033,3.5390282,-1.4713858,,Smooth Deceleration
+1301.033,3.2992506,-0.2397776,,Smooth Deceleration
+1302.033,4.195388,0.8961374,Rapid Acceleration,
+1303.033,5.318862,1.123474,Rapid Acceleration,
+1304.033,6.522413,1.203551,Rapid Acceleration,
+1305.033,7.740252,1.217839,Rapid Acceleration,
+1306.033,7.8951197,0.1548677,Rapid Acceleration,
+1307.033,8.249359,0.3542393,Rapid Acceleration,
+1308.033,9.135917,0.886558,Rapid Acceleration,
+1309.033,10.268893,1.132976,Rapid Acceleration,
+1310.033,11.410763,1.14187,Rapid Acceleration,
+1311.033,11.462197,0.051434,Rapid Acceleration,
+1312.033,10.932164,-0.530033,,Smooth Deceleration
+1313.033,10.285443,-0.646721,,Smooth Deceleration
+1314.033,9.814124,-0.471319,,Smooth Deceleration
+1315.033,9.609835,-0.204289,,Smooth Deceleration
+1316.033,9.670784,0.060949,Rapid Acceleration,
+1317.033,9.874112,0.203328,Rapid Acceleration,
+1318.033,9.97712,0.103008,Rapid Acceleration,
+1319.033,10.17944,0.20232,Rapid Acceleration,
+1320.033,10.385028,0.205588,Rapid Acceleration,
+1321.033,10.614911,0.229883,Rapid Acceleration,
+1322.033,11.025914,0.411003,Rapid Acceleration,
+1323.033,11.5141945,0.4882805,Rapid Acceleration,
+1324.033,12.084169,0.5699745,Rapid Acceleration,
+1325.033,12.299782,0.215613,Rapid Acceleration,
+1326.033,12.284925,-0.014857,,Smooth Deceleration
+1327.033,12.142644,-0.142281,,Smooth Deceleration
+1328.033,12.123538,-0.019106,,Smooth Deceleration
+1329.033,12.124856,0.001318,Rapid Acceleration,
+1330.033,12.1565075,0.0316515,Rapid Acceleration,
+1331.033,12.32653,0.1700225,Rapid Acceleration,
+1332.033,12.675059,0.348529,Rapid Acceleration,
+1333.033,13.051053,0.375994,Rapid Acceleration,
+1334.033,13.3780155,0.3269625,Rapid Acceleration,
+1335.033,13.499462,0.1214465,Rapid Acceleration,
+1336.033,12.986292,-0.51317,,Smooth Deceleration
+1337.033,12.212099,-0.774193,,Smooth Deceleration
+1338.033,12.01727,-0.194829,,Smooth Deceleration
+1339.033,12.403983,0.386713,Rapid Acceleration,
+1340.033,12.975902,0.571919,Rapid Acceleration,
+1341.033,13.264975,0.289073,Rapid Acceleration,
+1342.033,12.682802,-0.582173,,Smooth Deceleration
+1343.033,12.26447,-0.418332,,Smooth Deceleration
+1344.033,12.136087,-0.128383,,Smooth Deceleration
+1345.033,11.949545,-0.186542,,Smooth Deceleration
+1346.033,11.636753,-0.312792,,Smooth Deceleration
+1347.033,11.255422,-0.381331,,Smooth Deceleration
+1348.033,10.334362,-0.92106,,Smooth Deceleration
+1349.033,8.54962,-1.784742,,Smooth Deceleration
+1350.033,6.1554193,-2.3942007,,Rapid Deceleration
+1351.033,4.404617,-1.7508023,,Smooth Deceleration
+1352.033,4.899578,0.494961,Rapid Acceleration,
+1353.033,5.480275,0.580697,Rapid Acceleration,
+1354.033,6.4450016,0.9647266,Rapid Acceleration,
+1355.033,7.963408,1.5184064,Rapid Acceleration,
+1356.033,9.460428,1.49702,Rapid Acceleration,
+1357.033,10.886342,1.425914,Rapid Acceleration,
+1358.033,12.281512,1.39517,Rapid Acceleration,
+1359.033,13.746458,1.464946,Rapid Acceleration,
+1360.033,13.524208,-0.22225,,Smooth Deceleration
+1361.033,13.414591,-0.109617,,Smooth Deceleration
+1362.033,13.983378,0.568787,Rapid Acceleration,
+1363.033,14.719812,0.736434,Rapid Acceleration,
+1364.033,15.408409,0.688597,Rapid Acceleration,
+1365.033,16.174501,0.766092,Rapid Acceleration,
+1366.033,17.010128,0.835627,Rapid Acceleration,
+1367.033,17.774492,0.764364,Rapid Acceleration,
+1368.033,17.53553,-0.238962,,Smooth Deceleration
+1369.033,17.241835,-0.293695,,Smooth Deceleration
+1370.033,17.360327,0.118492,Rapid Acceleration,
+1371.033,17.552666,0.192339,Rapid Acceleration,
+1372.033,17.753868,0.201202,Rapid Acceleration,
+1373.033,17.917309,0.163441,Rapid Acceleration,
+1374.033,18.003248,0.085939,Rapid Acceleration,
+1375.033,17.847906,-0.155342,,Smooth Deceleration
+1376.033,17.738503,-0.109403,,Smooth Deceleration
+1377.033,17.807787,0.069284,Rapid Acceleration,
+1378.033,17.95472,0.146933,Rapid Acceleration,
+1379.033,18.107769,0.153049,Rapid Acceleration,
+1380.033,18.527845,0.420076,Rapid Acceleration,
+1381.033,18.884336,0.356491,Rapid Acceleration,
+1382.033,19.11165,0.227314,Rapid Acceleration,
+1383.033,19.116842,0.005192,Rapid Acceleration,
+1384.033,18.944626,-0.172216,,Smooth Deceleration
+1385.033,19.096529,0.151903,Rapid Acceleration,
+1386.033,19.09331,-0.003219,,Smooth Deceleration
+1387.033,19.493006,0.399696,Rapid Acceleration,
+1388.033,20.198137,0.705131,Rapid Acceleration,
+1389.033,20.947113,0.748976,Rapid Acceleration,
+1390.033,20.96076,0.013647,Rapid Acceleration,
+1391.033,20.595543,-0.365217,,Smooth Deceleration
+1392.033,20.32631,-0.269233,,Smooth Deceleration
+1393.033,20.387255,0.060945,Rapid Acceleration,
+1394.033,20.623672,0.236417,Rapid Acceleration,
+1395.033,20.83946,0.215788,Rapid Acceleration,
+1396.033,20.676197,-0.163263,,Smooth Deceleration
+1397.033,20.538782,-0.137415,,Smooth Deceleration
+1398.033,20.679033,0.140251,Rapid Acceleration,
+1399.033,20.7939,0.114867,Rapid Acceleration,
+1400.033,20.957632,0.163732,Rapid Acceleration,
+1401.033,21.14615,0.188518,Rapid Acceleration,
+1402.033,21.18653,0.04038,Rapid Acceleration,
+1403.033,21.297808,0.111278,Rapid Acceleration,
+1404.033,21.451675,0.153867,Rapid Acceleration,
+1405.033,21.365852,-0.085823,,Smooth Deceleration
+1406.033,21.665417,0.299565,Rapid Acceleration,
+1407.033,21.868368,0.202951,Rapid Acceleration,
+1408.033,21.935703,0.067335,Rapid Acceleration,
+1409.033,22.197237,0.261534,Rapid Acceleration,
+1410.033,22.373371,0.176134,Rapid Acceleration,
+1411.033,22.64897,0.275599,Rapid Acceleration,
+1412.033,22.618206,-0.030764,,Smooth Deceleration
+1413.033,22.28809,-0.330116,,Smooth Deceleration
+1414.033,22.124313,-0.163777,,Smooth Deceleration
+1415.033,21.97363,-0.150683,,Smooth Deceleration
+1416.033,22.099213,0.125583,Rapid Acceleration,
+1417.033,22.925514,0.826301,Rapid Acceleration,
+1418.033,23.538748,0.613234,Rapid Acceleration,
+1419.033,23.857937,0.319189,Rapid Acceleration,
+1420.033,23.913916,0.055979,Rapid Acceleration,
+1421.033,23.935886,0.02197,Rapid Acceleration,
+1422.033,23.770027,-0.165859,,Smooth Deceleration
+1423.033,23.432749,-0.337278,,Smooth Deceleration
+1425.033,22.45091,-0.4909195,,Smooth Deceleration
+1426.033,22.308521,-0.142389,,Smooth Deceleration
+1427.033,22.136929,-0.171592,,Smooth Deceleration
+1428.033,22.133211,-0.003718,,Smooth Deceleration
+1429.033,22.292631,0.15942,Rapid Acceleration,
+1430.033,22.42082,0.128189,Rapid Acceleration,
+1431.033,22.622585,0.201765,Rapid Acceleration,
+1432.033,22.812284,0.189699,Rapid Acceleration,
+1433.033,22.850996,0.038712,Rapid Acceleration,
+1434.033,22.84092,-0.010076,,Smooth Deceleration
+1435.033,22.684416,-0.156504,,Smooth Deceleration
+1436.033,22.393127,-0.291289,,Smooth Deceleration
+1437.033,21.82739,-0.565737,,Smooth Deceleration
+1438.033,21.785011,-0.042379,,Smooth Deceleration
+1439.033,21.723854,-0.061157,,Smooth Deceleration
+1440.033,21.754772,0.030918,Rapid Acceleration,
+1441.033,21.827942,0.07317,Rapid Acceleration,
+1442.033,21.941864,0.113922,Rapid Acceleration,
+1443.033,21.969826,0.027962,Rapid Acceleration,
+1445.033,22.26574,0.147957,Rapid Acceleration,
+1446.033,22.363844,0.098104,Rapid Acceleration,
+1447.033,22.603714,0.23987,Rapid Acceleration,
+1448.033,22.676723,0.073009,Rapid Acceleration,
+1449.033,23.15364,0.476917,Rapid Acceleration,
+1450.033,23.111193,-0.042447,,Smooth Deceleration
+1451.033,23.383436,0.272243,Rapid Acceleration,
+1452.033,23.606882,0.223446,Rapid Acceleration,
+1453.033,23.75579,0.148908,Rapid Acceleration,
+1454.033,23.729816,-0.025974,,Smooth Deceleration
+1455.033,23.787018,0.057202,Rapid Acceleration,
+1456.033,23.83729,0.050272,Rapid Acceleration,
+1457.033,23.607586,-0.229704,,Smooth Deceleration
+1458.033,23.839125,0.231539,Rapid Acceleration,
+1459.033,23.743954,-0.095171,,Smooth Deceleration
+1460.033,23.839409,0.095455,Rapid Acceleration,
+1461.033,23.934586,0.095177,Rapid Acceleration,
+1462.033,23.788744,-0.145842,,Smooth Deceleration
+1463.033,23.518133,-0.270611,,Smooth Deceleration
+1464.033,23.651697,0.133564,Rapid Acceleration,
+1465.033,23.31341,-0.338287,,Smooth Deceleration
+1466.033,23.193047,-0.120363,,Smooth Deceleration
+1467.033,22.730057,-0.46299,,Smooth Deceleration
+1468.033,22.546753,-0.183304,,Smooth Deceleration
+1469.033,22.462032,-0.084721,,Smooth Deceleration
+1470.033,22.474178,0.012146,Rapid Acceleration,
+1471.033,22.62407,0.149892,Rapid Acceleration,
+1472.033,22.883297,0.259227,Rapid Acceleration,
+1473.033,23.003017,0.11972,Rapid Acceleration,
+1474.033,23.168766,0.165749,Rapid Acceleration,
+1475.033,23.240124,0.071358,Rapid Acceleration,
+1476.033,23.33922,0.099096,Rapid Acceleration,
+1477.033,23.393766,0.054546,Rapid Acceleration,
+1478.033,23.470898,0.077132,Rapid Acceleration,
+1479.033,23.518118,0.04722,Rapid Acceleration,
+1480.033,23.583733,0.065615,Rapid Acceleration,
+1481.033,23.609879,0.026146,Rapid Acceleration,
+1482.033,23.622509,0.01263,Rapid Acceleration,
+1483.033,23.688147,0.065638,Rapid Acceleration,
+1484.033,23.776428,0.088281,Rapid Acceleration,
+1486.033,23.692835,-0.0417965,,Smooth Deceleration
+1489.033,23.520397,-0.057479333,,Smooth Deceleration
+1490.033,23.509508,-0.010889,,Smooth Deceleration
+1491.033,23.49192,-0.017588,,Smooth Deceleration
+1492.033,23.43876,-0.05316,,Smooth Deceleration
+1493.033,23.412422,-0.026338,,Smooth Deceleration
+1494.033,23.468727,0.056305,Rapid Acceleration,
+1495.033,23.557606,0.088879,Rapid Acceleration,
+1496.033,23.790117,0.232511,Rapid Acceleration,
+1497.033,24.102413,0.312296,Rapid Acceleration,
+1498.033,24.39585,0.293437,Rapid Acceleration,
+1499.033,24.605656,0.209806,Rapid Acceleration,
+1500.033,24.809036,0.20338,Rapid Acceleration,
+1501.033,24.933094,0.124058,Rapid Acceleration,
+1502.033,25.162312,0.229218,Rapid Acceleration,
+1503.033,25.366468,0.204156,Rapid Acceleration,
+1504.033,25.647806,0.281338,Rapid Acceleration,
+1505.033,25.91677,0.268964,Rapid Acceleration,
+1506.033,26.23029,0.31352,Rapid Acceleration,
+1507.033,26.535027,0.304737,Rapid Acceleration,
+1508.033,26.86765,0.332623,Rapid Acceleration,
+1509.033,27.236887,0.369237,Rapid Acceleration,
+1510.033,27.569355,0.332468,Rapid Acceleration,
+1511.033,27.860462,0.291107,Rapid Acceleration,
+1512.033,28.159725,0.299263,Rapid Acceleration,
+1513.033,28.54857,0.388845,Rapid Acceleration,
+1514.033,28.46546,-0.08311,,Smooth Deceleration
+1515.033,27.96007,-0.50539,,Smooth Deceleration
+1516.033,27.456001,-0.504069,,Smooth Deceleration
+1517.033,26.959047,-0.496954,,Smooth Deceleration
+1518.033,26.488222,-0.470825,,Smooth Deceleration
+1519.033,25.999077,-0.489145,,Smooth Deceleration
+1520.033,25.561924,-0.437153,,Smooth Deceleration
+1521.033,25.126143,-0.435781,,Smooth Deceleration
+1522.033,25.014874,-0.111269,,Smooth Deceleration
+1523.033,25.301004,0.28613,Rapid Acceleration,
+1524.033,25.981033,0.680029,Rapid Acceleration,
+1525.033,26.469017,0.487984,Rapid Acceleration,
+1526.033,26.449844,-0.019173,,Smooth Deceleration
+1527.033,26.05107,-0.398774,,Smooth Deceleration
+1528.033,25.659391,-0.391679,,Smooth Deceleration
+1529.033,25.3695,-0.289891,,Smooth Deceleration
+1530.033,25.074873,-0.294627,,Smooth Deceleration
+1531.033,24.71538,-0.359493,,Smooth Deceleration
+1532.033,24.432869,-0.282511,,Smooth Deceleration
+1533.033,24.128313,-0.304556,,Smooth Deceleration
+1534.033,23.869576,-0.258737,,Smooth Deceleration
+1535.033,23.49588,-0.373696,,Smooth Deceleration
+1536.033,22.80306,-0.69282,,Smooth Deceleration
+1537.033,21.63177,-1.17129,,Smooth Deceleration
+1538.033,20.21729,-1.41448,,Smooth Deceleration
+1539.033,18.441551,-1.775739,,Smooth Deceleration
+1540.033,17.086452,-1.355099,,Smooth Deceleration
+1541.033,16.410168,-0.676284,,Smooth Deceleration
+1542.033,15.721201,-0.688967,,Smooth Deceleration
+1543.033,14.552475,-1.168726,,Smooth Deceleration
+1544.033,12.953006,-1.599469,,Smooth Deceleration
+1545.033,11.560416,-1.39259,,Smooth Deceleration
+1546.033,10.332499,-1.227917,,Smooth Deceleration
+1547.033,8.795966,-1.536533,,Smooth Deceleration
+1548.033,6.7783794,-2.0175866,,Rapid Deceleration
+1549.033,4.4976788,-2.2807006,,Rapid Deceleration
+1550.033,3.617422,-0.8802568,,Smooth Deceleration
+1551.033,2.5558114,-1.0616106,,Smooth Deceleration
+1552.033,2.171803,-0.3840084,,Smooth Deceleration
+1553.033,1.8185977,-0.3532053,,Smooth Deceleration
+1554.033,1.3021815,-0.5164162,,Smooth Deceleration
+1555.033,0.99887776,-0.30330374,,Smooth Deceleration
+1556.033,0.5337404,-0.46513736,,Smooth Deceleration
+1557.033,0.23594876,-0.29779164,,Smooth Deceleration
+1558.033,0.06312434,-0.17282442,,Smooth Deceleration
+1559.033,0.021410016,-0.041714324,,Smooth Deceleration
+1560.033,0.003604968,-0.017805048,,Smooth Deceleration
+1562.033,0.022757502,0.009576267,Rapid Acceleration,
